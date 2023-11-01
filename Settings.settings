@@ -1,0 +1,90 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Franklin_Templeton_DAL.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="apiUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FormBgColur" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="CaptionLabel" Type="System.Drawing.Font" Scope="Application">
+      <Value Profile="(Default)">Roboto, 10.2pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="NormalLabel" Type="System.Drawing.Font" Scope="Application">
+      <Value Profile="(Default)">Roboto, 10.2pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="GridRowColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">221, 234, 255</Value>
+    </Setting>
+    <Setting Name="GridAlternateColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="GridHeaderColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">55, 105, 255</Value>
+    </Setting>
+    <Setting Name="TextFont" Type="System.Drawing.Font" Scope="Application">
+      <Value Profile="(Default)">Roboto, 10.2pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="ButtonFont" Type="System.Drawing.Font" Scope="Application">
+      <Value Profile="(Default)">Arial, 10.2pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="ButtonColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">55, 105, 255</Value>
+    </Setting>
+    <Setting Name="GridBgColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Control</Value>
+    </Setting>
+    <Setting Name="DefaultForeColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">ControlText</Value>
+    </Setting>
+    <Setting Name="DefaultFontColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">ControlText</Value>
+    </Setting>
+    <Setting Name="HeaderPanel" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="EnvironLabelColorProduction" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="EnvironLabelColorDevelopment" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">255, 128, 0</Value>
+    </Setting>
+    <Setting Name="EnvironLabelColorTest" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Fuchsia</Value>
+    </Setting>
+    <Setting Name="EnvironLabelColorUat" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">0, 0, 192</Value>
+    </Setting>
+    <Setting Name="ButtonForeColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="LabelBold" Type="System.Drawing.Font" Scope="Application">
+      <Value Profile="(Default)">Roboto, 10.2pt, style=Bold</Value>
+    </Setting>
+    <Setting Name="ButtonHeight" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">35</Value>
+    </Setting>
+    <Setting Name="RowHeaderVisible" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TextboxHeight" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="GridColumnFont" Type="System.Drawing.Font" Scope="Application">
+      <Value Profile="(Default)">Verdana, 10.2pt</Value>
+    </Setting>
+    <Setting Name="GridRowHeight" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">40</Value>
+    </Setting>
+    <Setting Name="SelectedEnvironment" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
